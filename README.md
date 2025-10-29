@@ -1,4 +1,4 @@
-<h1 align="center">It's me<span style="color:#00c896">Seung Hwan</span></h1>
+<h1 align="center"><span styles="color:#00c896">Error</span></h1>
 
 <p align="center">
   🌿 Front-End Developer who builds clean, creative, and eco-friendly web experiences.<br/>
