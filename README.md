@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#00c896">ErrorNotFound</span></h1>
+<h1 align="center">It's me<span style="color:#00c896">Seung Hwan</span></h1>
 
 <p align="center">
   🌿 Front-End Developer who builds clean, creative, and eco-friendly web experiences.<br/>
@@ -18,20 +18,20 @@
 ### 🛠️ Tech Stack
 | Frontend | Backend | Tools |
 |-----------|----------|-------|
-| React • Vite • TypeScript • Styled-Components | Node.js • Express | Git • Figma • VSCode • Netlify |
+| React • Vite • TypeScript • Styled-Components | Git • Figma • VSCode |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErrorNotFound&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNotFound&layout=compact&theme=tokyonight" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsh0622&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsh0622&layout=compact&theme=tokyonight" alt="Top languages" height="160" />
 </p>
 
 ---
 
 ### 🌿 Featured Project
-**[ZeroLife](https://github.com/너아이디/ZeroLife)**  
+**[Devit](https://github.com/hsh0622/Devit-web)**  
 > A zero-waste lifestyle web platform that connects people through eco-friendly ideas.  
 > Built with ❤️ using React, Vite, and Styled-Components.
 
