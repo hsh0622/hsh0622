@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm <span style="color:#00c896">ErrorNotFound</span></h1>
 
-<!--
-**hsh0622/hsh0622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌿 Front-End Developer who builds clean, creative, and eco-friendly web experiences.<br/>
+  I love turning ideas into interactive designs and learning something new every day.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🌱 Currently exploring **React**, **Vite**, and **UI/UX design**
+- 💡 Passionate about making web projects that are both **functional** and **beautiful**
+- 🚀 Love challenges that push me to grow as a developer
+- 🌎 Building **ZeroLife**, a platform for a more sustainable future
+
+---
+
+### 🛠️ Tech Stack
+| Frontend | Backend | Tools |
+|-----------|----------|-------|
+| React • Vite • TypeScript • Styled-Components | Node.js • Express | Git • Figma • VSCode • Netlify |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErrorNotFound&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorNotFound&layout=compact&theme=tokyonight" alt="Top languages" height="160" />
+</p>
+
+---
+
+### 🌿 Featured Project
+**[ZeroLife](https://github.com/너아이디/ZeroLife)**  
+> A zero-waste lifestyle web platform that connects people through eco-friendly ideas.  
+> Built with ❤️ using React, Vite, and Styled-Components.
+
+---
+
+### 📫 Connect With Me
+<p>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ErrorNotFound">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>If you like my projects, feel free to star them!</i> ⭐
+</p>
